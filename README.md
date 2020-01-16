@@ -1,5 +1,7 @@
 # COMP3608 - Intelligent Systems
 
+[Course Outline](https://github.com/InzamamRahaman/COMP3608-2020/blob/master/Outline.pdf)
+
 ## Week #2 - Optimization Concepts and Mathematical Preliminaries
 * Recommended Reading: Kochenderfer and Wheeler Chapters 1 and 2
 * Recommended Reading: Deisenroth et al.
