@@ -13,7 +13,7 @@
 ## Week #3 - Metaheuristics and MiniZinc
 * Recommended Reading: Kochenderfer and Wheeler Chapter 8 (Section 3) and Chapter 9 (Sections 2 and 4)
 * Recommended Reading: [MiniZinc Handbook](https://www.minizinc.org/doc-2.3.0/en/)
-* [Slides - Lecture]()
+* [Slides - Lecture](https://github.com/InzamamRahaman/COMP3608-2020/blob/master/lectures/pdf/Lecture%203%20-%20Metaheuristics.pdf)
 * [Lab](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/labs/2)
 
 ## Week #2 - Optimization Concepts and Mathematical Preliminaries
