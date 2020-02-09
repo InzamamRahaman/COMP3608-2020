@@ -7,7 +7,7 @@
 
 ## Week #4 - Metaheuristics Continued, Maximum Liklihood Estimation, Data Fitting, and Gradient Descent Lab
 * Recommended Reading: Kochenderfer and Wheeler, Chapter 20, Section 1, 2
-* Recommended Reading: [Boyd and Vandenberghe](http://vmls-book.stanford.edu/vmls.pdf)
+* Recommended Reading: [Boyd and Vandenberghe](http://vmls-book.stanford.edu/vmls.pdf), Chapters 12 and 13
 * Recommended Reading: [Goodfellow et al.](https://www.deeplearningbook.org/contents/ml.html), Chapter 5, Section 5
    
 ## Week #3 - Metaheuristics and MiniZinc
