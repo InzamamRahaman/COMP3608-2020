@@ -2,6 +2,9 @@
 
 [Course Outline](https://github.com/InzamamRahaman/COMP3608-2020/blob/master/Outline.pdf)
 
+## Psets
+1. [Pset 1 Solutions](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/psets/pset1%20sols)
+
 ## Assignemnts
 1. [A1](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/assignments)
 
