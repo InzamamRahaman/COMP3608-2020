@@ -9,6 +9,12 @@
 1. [A1](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/assignments)
 2. [A2](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/assignments/assignment2)
 
+## Week #9 - Convolutional Neural Networks
+* Recommended Reading: [Goodfellow et al.](https://www.deeplearningbook.org/contents/convnets.html), Chapter 9
+
+## Week #8 - Feed-foward Neural Networks
+* Recommended Reading: [Goodfellow et al.](https://www.deeplearningbook.org/contents/mlp.html), Chapter 6
+
 ## Week #7 - Linear Regression and Logistic Regression
 * Recommended Reading: [Goodfellow et al.](https://www.deeplearningbook.org/contents/ml.html), Chapter 5
 * Recommended Reading: [Deisenroth et al.](https://mml-book.github.io/book/mml-book.pdf), Chapter 9
