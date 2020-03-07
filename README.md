@@ -9,6 +9,16 @@
 1. [A1](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/assignments)
 2. [A2](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/assignments/assignment2)
 
+## Week #13 - Recap and Epilogue
+
+## Week #12 - No class, Good Friday
+
+## Week #11 - Bayes Networks and Bayes Thereom Part 2
+* Recommended Reading: Murphy, Chapter 10
+
+## Week #10 - Bayes Networks and Bayes Thereom Part 1
+* Recommended Reading: Murphy, Chapter 10
+
 ## Week #9 - Convolutional Neural Networks
 * Recommended Reading: [Goodfellow et al.](https://www.deeplearningbook.org/contents/convnets.html), Chapter 9
 
