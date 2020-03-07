@@ -7,6 +7,18 @@
 
 ## Assignemnts
 1. [A1](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/assignments)
+2. [A2](https://github.com/InzamamRahaman/COMP3608-2020/tree/master/assignments/assignment2)
+
+## Week #7 - Linear Regression and Logistic Regression
+* Recommended Reading: [Goodfellow et al.](https://www.deeplearningbook.org/contents/ml.html), Chapter 5
+* Recommended Reading: [Deisenroth et al.](https://mml-book.github.io/book/mml-book.pdf), Chapter 9
+* Recommended Reading: Murphy, Chapter 7 and Chapter 8
+* [Slides](https://github.com/InzamamRahaman/COMP3608-2020/blob/master/lectures/pdf/Lecture%207%20-%20GLMs.pdf)
+
+
+## Week #6 - Machine Learning Basics Continued
+* Recommended Reading: Flach, Chapter 1
+* [Slides](https://github.com/InzamamRahaman/COMP3608-2020/blob/master/lectures/pdf/Lecture%206%20-%20Machine%20Learning%20Experiments.key)
 
 ## Week #5 - Machine Learning Basics
 * Recommended Rading: [Goodfellow et al.](https://www.deeplearningbook.org/contents/ml.html), Chapter 5
