@@ -3,7 +3,7 @@
 [Course Outline](https://github.com/InzamamRahaman/COMP3608-2020/blob/master/Outline.pdf)
 
 ## Quiz
-* [Problems]
+* [Problems](https://github.com/InzamamRahaman/COMP3608-2020/blob/master/psets/Test.pdf)
 * [Answer Sheet](https://forms.gle/NxHv8KoD4RCt44Mw7)
 
 ## Psets
